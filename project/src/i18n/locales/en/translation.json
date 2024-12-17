@@ -1,0 +1,41 @@
+{
+  "header": {
+    "title": "Microsoft Learn Path Finder"
+  },
+  "learning": {
+    "goal": {
+      "select": {
+        "placeholder": "Select your learning goal"
+      },
+      "categories": {
+        "cloud": "Cloud Platforms",
+        "tools": "Development Tools",
+        "security": "Security & Compliance",
+        "ai": "AI & Machine Learning"
+      }
+    }
+  },
+  "tutor": {
+    "title": "GPT Learning Assistant",
+    "description": "Get personalized step-by-step tutorials for any topic. Just ask your question below.",
+    "input": {
+      "placeholder": "What would you like to learn? (e.g., 'How to set up Salesforce for beginners')"
+    },
+    "results": {
+      "title": "Step-by-Step Tutorial"
+    },
+    "product": {
+      "title": "Product Learning Guide",
+      "description": "Get step-by-step tutorials for specific products like Google Cloud, Salesforce, and more.",
+      "input": {
+        "placeholder": "Enter a product (e.g., 'Google Cloud Basics')"
+      },
+      "results": {
+        "title": "Your Learning Steps"
+      }
+    }
+  },
+  "common": {
+    "language": "en"
+  }
+}

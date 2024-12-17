@@ -1,0 +1,18 @@
+{
+  "header": {
+    "title": "Microsoft Learn Pfadfinder"
+  },
+  "tutor": {
+    "title": "GPT Lern-Assistent",
+    "description": "Erhalten Sie personalisierte Schritt-für-Schritt-Anleitungen für jedes Thema. Stellen Sie einfach Ihre Frage unten.",
+    "input": {
+      "placeholder": "Was möchten Sie lernen? (z.B. 'Wie richte ich Salesforce für Anfänger ein')"
+    },
+    "results": {
+      "title": "Schritt-für-Schritt-Anleitung"
+    }
+  },
+  "common": {
+    "language": "de"
+  }
+}
